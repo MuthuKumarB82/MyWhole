@@ -16,7 +16,7 @@ public class ArithmaticExcep {
 		   b.printStackTrace();
 	   }
 	   finally {
-		   System.out.println("Invalid");
+		   System.out.println("Enter is Invalid");
 	   }
 	   
    }
